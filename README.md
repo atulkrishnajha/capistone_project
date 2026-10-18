@@ -1,1 +1,5 @@
 # capistone_project
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+joblib==1.4.2
